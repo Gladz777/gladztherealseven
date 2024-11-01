@@ -1,0 +1,65 @@
+body {
+    color: white;
+    background-color: black;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+padding: 25px;
+}
+
+
+/* Estilos TITULO */
+
+h1 {
+    color: blueviolet;
+    font-size: 60px;
+    text-align: center;    
+    margin-top: -20px;    
+    font-family: 'Times New Roman', Times, serif;
+
+}
+/* Estilos txt legenda */
+
+p {
+color: rgb(255, 255, 255);
+text-align: center;
+margin-top: 20px;
+
+}
+
+h2
+{
+    color: blueviolet;
+    font-size: 40px;
+    text-align: center; 
+    margin-top: 40px;
+}
+
+h3
+{
+    color: blueviolet;
+    font-size: 40px;
+    text-align: center; 
+    margin-top: 80px;
+}
+
+/* Estilos gerais para todas as imagens de conquista */
+.img {
+    display: block;
+    margin: 0 auto;
+    
+}
+
+/* Estilos específicos para cada imagem */
+.foto1 {
+    width: 300px; /* Tamanho personalizado para a primeira conquista */
+    height: auto; /* Mantém a proporção */
+    border-style: double;
+    border: 5px solid rgb(95, 19, 158);
+
+}
+
+.foto2 {
+    width: 300px; /* Tamanho personalizado para a segunda conquista */
+    height: auto;
+    border-style: double;
+    border: 5px solid rgb(95, 19, 158);
+}
